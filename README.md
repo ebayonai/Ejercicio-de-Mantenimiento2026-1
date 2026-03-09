@@ -1,1 +1,1 @@
-Ejecrico 2 de Mantenimiento de Coomputadores y Desarrollo Web 
+Ejercicio 2 de Mantenimiento de Coomputadores y Desarrollo Web 
